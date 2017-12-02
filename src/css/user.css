@@ -1,0 +1,14 @@
+.user .image {
+	text-align: center;	
+}
+.user .info {
+	text-align: center;	
+}
+.user .image img {
+	margin: auto;
+	width: 	200px;
+	height: 200px;
+	border: 1px solid #aaa;	
+	min-width: 	200px;
+	min-height: 200px;
+}

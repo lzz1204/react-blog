@@ -1,0 +1,30 @@
+.login .login-form {
+	padding: 40px;
+	width: 40%;
+	min-width: 300px;
+	max-width: 400px;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	margin: 80px 50px;
+}
+.login .login-form h1 {
+	margin-bottom: 30px;
+}
+.login .login-form h1 span {
+	font-size: 14px;
+	float: right;	
+	padding: 10px;
+}
+.login .ant-input-group-addon:first-child {
+	height: 32px;
+}
+.login .login-form .ant-input-group-addon:last-child {
+	padding: 0;
+}
+.login .ant-input:not(:first-child):not(:last-child) {
+    border-radius: 0;
+    width: 150px;
+}
+.login .login-form .login-form-forgot{
+	float: right;
+}

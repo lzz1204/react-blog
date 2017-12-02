@@ -1,0 +1,24 @@
+.signup  .ant-form-item-label .ant-form-item-required:before {
+    content: "";
+}
+.signup {
+	max-width:600px;
+	max-height: 700px;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-bottom: 200px;
+	border-right:1px solid #aaa;
+}
+.signup .ant-input-wrapper .ant-input-group-addon {
+	width: 70px;
+}
+.signup .ant-input-lg {
+	height: 50px;
+}
+.signup .ant-form-item-label {
+	padding-top: 9px;
+}
+.signup .ant-form-item-control .ant-col-12 .ant-input-group-wrapper .ant-input-group > .ant-input:first-child, .ant-input-group-addon:first-child {
+    height: 50px;
+    width: 214.41px;
+}

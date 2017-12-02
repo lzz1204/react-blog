@@ -1,0 +1,23 @@
+
+.home .ant-carousel .slick-dots li button {
+	background: #aaa;
+}
+
+.home .ant-carousel .slick-dots li.slick-active button {
+	background: red;
+}
+
+.home .ant-carousel .slick-slide {
+	position: relative;
+	text-align: center;
+} 
+
+.home .ant-carousel .slick-slide >h3 {
+	position: absolute;
+	font-size: 30px;
+	opacity: 0.7;	
+	margin: auto;
+	top: 50%;
+	left: 0;
+	right: 0;
+}

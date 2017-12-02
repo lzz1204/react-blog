@@ -1,0 +1,8 @@
+.appnav .user {
+	position: absolute;
+	top: 0px;
+	right:40px;
+}
+.appnav .edit-btn {
+	margin-right: 20px;
+}
